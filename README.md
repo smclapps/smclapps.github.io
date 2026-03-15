@@ -1,3 +1,3 @@
-Sven Rothsching
-Germany
+Sven Rothsching,
+Germany,
 smcl.apps@gmail.com
